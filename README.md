@@ -16,14 +16,14 @@ This web app is designed to predict customer churn in a subscription-based busin
 - Scikit-learn: Employed for data preprocessing and scaling.
 
 ## Files
-- `deployment_code.py`: Python script containing the deployment code for the Streamlit app.
-- `training_code.py`: Python script containing the code for training the Churn Prediction model.
+- `App.py`: Python script containing the deployment code for the Streamlit app.
+- `88922025_Churning_Customers.ipynb`: Python script containing the code for training the Churn Prediction model.
 - `finalmodel.h5`: The trained machine learning model saved in HDF5 format.
 - `scaler.pkl`: The scaler used for preprocessing data saved using Pickle.
 
 ## Instructions for Running Locally
 1. Install the required Python libraries by running: `pip install -r requirements.txt`.
-2. Run the Streamlit app by executing: `streamlit run deployment_code.py`.
+2. Run the Streamlit app by executing: `streamlit run App.py`.
 3. Access the web app in your browser at the provided URL.
 
 ## How to Use
