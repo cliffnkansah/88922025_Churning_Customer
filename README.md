@@ -36,9 +36,9 @@ This web app is designed to predict customer churn in a subscription-based busin
 - Integration with a database for storing and retrieving customer data.
 - Inclusion of more advanced visualization of churn trends.
 - Enhancement of the model with additional features for improved accuracy.
-
-##Video deployment Code
--https://drive.google.com/file/d/1HMxOQCFHpXfVMJToN6kBATgIE0sNLofV/view?usp=drive_link
+- 
+## Video deployment Code
+1. https://drive.google.com/file/d/1HMxOQCFHpXfVMJToN6kBATgIE0sNLofV/view?usp=drive_link
 
 
 Feel free to contribute or provide feedback to improve this project!
